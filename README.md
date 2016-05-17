@@ -6,5 +6,8 @@ A Go (golang) package for fabricating any two dimensional data which have a line
 Can be used to create new data from an existing set, or generate multiple trials
 which roughly average out to the original data.
 
+## Examples
+See [/examples](/examples) for example usage.
+
 ## License
 Fabricator is licensed under the MIT license which can be found [here](/LICENSE).
